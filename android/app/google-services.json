@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580573860920",
+    "firebase_url": "https://hackdavis-3f0e5-default-rtdb.firebaseio.com",
+    "project_id": "hackdavis-3f0e5",
+    "storage_bucket": "hackdavis-3f0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580573860920:android:31e62967a0db1c35b802cd",
+        "android_client_info": {
+          "package_name": "com.hackDavis.poolit_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580573860920-tve0gl9ec2kdej834gdmlfpjeqk5m7sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSClL6uFuxpKWMN6k8D2_pkcU03uLyaz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580573860920-tve0gl9ec2kdej834gdmlfpjeqk5m7sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
