@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:poolit_main/screens/offeringRide.dart';
 
 class carpoolHomePage extends StatefulWidget {
   const carpoolHomePage({Key? key}) : super(key: key);
@@ -48,14 +49,54 @@ class _carpoolHomePageState extends State<carpoolHomePage> {
               ),
               ),
               Padding(
-                padding: EdgeInsets.only(top: 15),
+                padding: EdgeInsets.only(top: 0),
                 child: Image(
                   fit: BoxFit.fill,
-                  height: 180,
-                  width: 360,
-                  image: AssetImage('imagesHomePage/Group 578.png'),
+                  height: 175,
+                  width: 385,
+                  image: AssetImage('imagesCarpoolHome/Group 3378.png'),
                 ),
               ),
+
+              Row(
+                children: <Widget>[
+                  GestureDetector(
+                    onTap: (){
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => const offeringRidePage()),
+                      );
+                    },
+                    child: Padding(padding: EdgeInsets.only(top: 10, left: 20, right:12),
+                      child: Image(
+                        fit: BoxFit.fill,
+                        height: 110,
+                        width: 180,
+                        image: AssetImage('imagesCarpoolHome/Group 1.png'),
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: EdgeInsets.only(top: 10),
+                    child:
+                    GestureDetector(
+                      onTap: (){
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const offeringRidePage()),
+                        );
+                      },
+                      child: Image(
+                        fit: BoxFit.fill,
+                        height: 110,
+                        width: 180,
+                        image: AssetImage('imagesCarpoolHome/Group 7.png'),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+
             ],
           ),
         ),

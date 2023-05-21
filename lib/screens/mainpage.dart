@@ -40,15 +40,24 @@ class _MainPageState extends State<MainPage> {
                 );
               },
               child: Image(
-                height: 150,
-                width: 300,
+                fit: BoxFit.fill,
+                height: 90,
+                width: 310,
                 image: AssetImage('images/Login_Google.png'),
                 alignment: Alignment.center,
               ),
               ),
               Image(
+                fit: BoxFit.fill,
+                height: 75,
+                width: 310,
+                image: AssetImage('images/Group 3379.png'),
+                alignment: Alignment.center,
+              ),
+              Image(
+                fit: BoxFit.fill,
                 height: 30,
-                width: 250,
+                width: 280,
                 image: AssetImage('images/Sign_Up.png'),
                 alignment: Alignment.center,
               ),
