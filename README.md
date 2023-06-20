@@ -8,6 +8,7 @@
 
 https://github.com/Mohnish2004/Pool-it/assets/81405395/e5144217-c7d0-462a-a744-641862345209
 
+https://devpost.com/software/pool-it-or74mp
 
 # Inspiration
 The inspiration behind Pool It was to address the transportation and package delivery challenges faced by UC Davis students, specifically during weekend trips to visit family. The goal was to create a convenient and efficient all-in-one platform that facilitates Ridesharing and package delivery within the student community. By addressing transportation, environment and delivery challenges while incorporating sustainable practices and promoting community engagement, Pool It strives to make a positive impact.
