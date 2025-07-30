@@ -37,3 +37,35 @@ We recommend using the latest stable release to ensure the highest level of secu
 
 Thank you for helping keep `pooolit` and its users safe!
 
+Here’s a Credit Policy section you can include in your SECURITY.md or in a separate CREDITS.md file to formally acknowledge contributors who report security issues:
+
+⸻
+
+🏆 Credit Policy
+
+We believe in recognizing and thanking individuals who help make pooolit more secure.
+
+✔️ Eligibility for Credit
+
+You may be publicly credited in our repository or release notes if:
+	•	You are the first to report a previously unknown, valid security issue.
+	•	You provide a clear, actionable report that helps us understand and resolve the issue.
+	•	You give us a reasonable time to fix the issue before disclosing it publicly.
+
+📋 What We Offer
+	•	Public acknowledgment in our changelog, release notes, or a dedicated SECURITY-CREDITS.md file.
+	•	Optionally, a swag reward or thank-you gift (if applicable and feasible).
+	•	A chance to be included in future security hall of fame pages.
+
+🛑 Exclusions
+
+We may not offer public credit if:
+	•	The issue is already known or previously reported.
+	•	The report is vague, incomplete, or not reproducible.
+	•	The issue is not considered a security vulnerability by our team.
+
+If you’d prefer not to be credited, please let us know when reporting the issue.
+
+⸻
+
+Would you like me to help draft a SECURITY-CREDITS.md file too?
